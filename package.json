@@ -17,5 +17,15 @@
     "transformer.ascii": "0.0.3",
     "transformer.base32": "0.0.2",
     "base32": "0.0.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbenet/transformer.base32-to-ascii.git"
+  },
+  "author": "Juan Benet <juan@benet.ai> (http://juan.benet.ai/)",
+  "bugs": {
+    "url": "https://github.com/jbenet/transformer.base32-to-ascii/issues"
+  },
+  "homepage": "https://github.com/jbenet/transformer.base32-to-ascii"
 }
